@@ -18,3 +18,4 @@ While Model 4 did not fully reach the 0.85 benchmark, its stability across diffe
 🤟🏻 Language Representations, including Word Embeddings, Word2vec, Embeddings for Classification, & BERT
 ## Installation & Usage
 * This project uses math, numpy, pandas, matplotlib, seaborn, tqdm.auto, and nltk.  It requires python 3.11.7.
+* Due to file size limitations, the data set is not uploaded here.  It contains IMDB reviews from Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011)
